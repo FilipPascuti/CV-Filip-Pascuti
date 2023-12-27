@@ -88,7 +88,6 @@ export const RESUME_DATA = {
       techStack: ["Angular", "Java", "SpringBoot", "Ruby", "Docker"],
       description:
         "A platform for keeping track of your most and least liked songs.",
-      logo: "",
     },
     {
       title: "Conferencist",
@@ -102,7 +101,6 @@ export const RESUME_DATA = {
       ],
       description:
         "A platform for planning and organizing academic conferences.",
-      logo: "",
     },
   ],
 } as const;
